@@ -1,10 +1,10 @@
 {
-  "name": "app",
+  "name": "rvrdev.github.io",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export -o ./dist",
+    "build": "next build && next export",
     "start": "next start",
     "lint": "eslint"
   },
